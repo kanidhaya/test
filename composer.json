@@ -1,5 +1,5 @@
     {
-        "name": "test/custom",
+        "name": "test/Exampletest",
         "description": "My first Composer project",
         "authors": [
             {
@@ -13,7 +13,7 @@
         },
         "autoload": {
             "psr-0": {
-                "Custom": "src/"
+                "Exampletest": "src/"
             }
         }
     }
